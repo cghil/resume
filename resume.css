@@ -92,7 +92,7 @@ a {
 }
 
 .grid {
-  width: 85%;
+  width: 90%;
   margin: 0 auto;
 }
 
@@ -145,4 +145,12 @@ a {
 }
 .hr-space {
   padding: 2em;
+}
+
+.font-size-12 {
+  font-size: 12px;
+}
+
+.font-size-14 {
+  font-size: 14px;
 }
